@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "abiVersion": 1,
+  "id": "qubic",
+  "name": "Qubic",
+  "ticker": "QUBIC",
+  "version": "0.1.9",
+  "kind": "account",
+  "networkId": "qubic-mainnet",
+  "decimals": 0,
+  "capabilities": [],
+  "runtime": {
+    "type": "legacy"
+  },
+  "nativeRoute": "qubic-js",
+  "coin": {
+    "id": "qubic",
+    "name": "Qubic",
+    "ticker": "QUBIC",
+    "explorerUrl": "https://explorer.qubic.org",
+    "networkId": "qubic-mainnet",
+    "supportsMemo": false,
+    "satsPerCoin": 1,
+    "walletEngine": "qubic-account"
+  },
+  "icon": "icon.png"
+}
